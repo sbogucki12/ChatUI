@@ -27,3 +27,8 @@ html {
 #root {
   height: 100%;
 }
+
+.rules-modal-container {
+  max-width: 600px;
+  min-width: 320px;
+}
